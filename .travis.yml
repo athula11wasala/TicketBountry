@@ -3,10 +3,3 @@ language: php
 php:
   - "7.1"
 
-before_script:
- action
- 
-services:
-  - mysql
-
-script:
