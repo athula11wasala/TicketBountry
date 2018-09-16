@@ -1,0 +1,11 @@
+
+
+https://www.infoworld.com/article/3271126/ci-cd/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
+https://www.youtube.com/watch?v=Uft5KBimzyk
+
+CI builds and automation: building, testing, deploying #
+When you run a build, Travis CI clones your GitHub repository into a brand new virtual environment,
+ and carries out a series of tasks to build and test your code. If one or more of those tasks fails, 
+the build is considered broken. If none of the tasks fail, the build is considered passed, and 
+Travis CI can deploy your code to a web server, or application host.
+
